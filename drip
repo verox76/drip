@@ -1,3 +1,4 @@
-script 
+<body>
+<script>
  document.write(*hello world in JavaScript*);
-script
+<script>
