@@ -1,4 +1,5 @@
-<body>
-<script>
- document.write(*hello world in JavaScript*);
-<script>
+<head>
+<title>Titel<title>
+ <script>
+  document.write(*hello world in JavaScript*);
+ <script>
