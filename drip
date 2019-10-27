@@ -1,5 +1,7 @@
 <head>
-<title>Titel<title>
+  <title>Titel<title>
+<head>
+
  <script>
   document.write(*hello world in JavaScript*);
  <script>
